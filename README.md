@@ -9,16 +9,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="damilurg" height="30" width="40" />
   </a>
 </p>
-
-<h3 align="left">GitHub Statistics:</h3>
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damilurg&langs_count=8" align="right" />
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=damilurg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damilurg&show_icons=true&count_private=true)
-
-
 <img align="right" alt="GIF" src="https://github.com/damilurg/damilurg/blob/main/code.gif?raw=true" height="320" />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -53,3 +44,10 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
+
+<h3 align="left">GitHub Statistics:</h3>
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damilurg&langs_count=8" align="right" />
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=damilurg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damilurg&show_icons=true&count_private=true)
